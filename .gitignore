@@ -1,0 +1,6 @@
+/.vs/
+/ChatAPI/bin/
+/ChatAPI/obj/
+/ChatMVC/bin/
+/ChatMVC/obj/
+/ChatSignalr/node_modules/
